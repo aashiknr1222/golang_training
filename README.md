@@ -1,2 +1,2 @@
 # golang_training
-Go lang for enthusiast
+Todo App (CRUD Operations)
